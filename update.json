@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "build": 87,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-87/KG-Logger-v0.6.0-Build87-update.zip",
-  "sha256": "99d3bdf46222cc7253fd1fa7bd01c6fa4b2edd9c209ad5e13d9f758d82207ed1",
-  "notes": "KG Logger v0.6.0 Build 87"
+  "version": "0.6.1",
+  "build": 89,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-89/KG-Logger-v0.6.1-Build89-update.zip",
+  "sha256": "f16341f69f228991f9bb82864f88679bba9b8e18370f461b3340395984d9cb86",
+  "notes": "KG Logger v0.6.1 Build 89"
 }
