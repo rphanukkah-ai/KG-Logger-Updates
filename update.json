@@ -1,7 +1,7 @@
 {
-  "version": "0.6.15",
-  "build": 110,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-110/KG-Logger-v0.6.15-Build110-update.zip",
-  "sha256": "d51a0a7e24e1a041fba0ac1ee2e44cd60875b4b4fe67dd3dd7b63d61fcc65814",
-  "notes": "KG Logger v0.6.15 Build 110"
+  "version": "0.6.16",
+  "build": 112,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-112/KG-Logger-v0.6.16-Build112-update.zip",
+  "sha256": "74c17c9ce2d4715550c2a6835f77297e5303b7a2ff8a5a6d8e35209664cc0d0e",
+  "notes": "KG Logger v0.6.16 Build 112"
 }
