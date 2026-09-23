@@ -1,7 +1,7 @@
 {
-  "version": "0.6.16",
-  "build": 116,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-116/KG-Logger-v0.6.16-Build116-update.zip",
-  "sha256": "8d6bc3048936a4714695ac6f879efc40682af377370f58b81b0be38d861c45a2",
-  "notes": "KG Logger v0.6.16 Build 116"
+  "version": "0.6.17",
+  "build": 121,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-121/KG-Logger-v0.6.17-Build121-update.zip",
+  "sha256": "a5ea6ce72321c8e98d989a2dd3ad8e6376c347a89a0ed4a0779350acc352dc6b",
+  "notes": "KG Logger v0.6.17 Build 121. Testing release: Standard OBD is the default. Enhanced mode remains experimental; pressure decoding is suppressed. Software checks passed; final vehicle validation and full enhanced-PID support are pending."
 }
