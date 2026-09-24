@@ -1,7 +1,7 @@
 {
-  "version": "0.6.18",
-  "build": 124,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-124/KG-Logger-v0.6.18-Build124-update.zip",
-  "sha256": "ef5f8ff595c4811e6883f188686139957e6a28fed9cd7beb4abce8361285f65d",
-  "notes": "KG Logger v0.6.18 Build 124. Testing release: safer passive-capture exit and provisional VGT after-revision channel. Rail and transmission RPM supported by idle captures; full enhanced validation remains pending. Standard OBD is the default; enhanced MAP/BARO and temperatures remain unavailable."
+  "version": "0.6.19",
+  "build": 126,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-126/KG-Logger-v0.6.19-Build126-update.zip",
+  "sha256": "605357043b86ad69d0d78348167567c66e94a2c9e9c2f6b8a641ef2e7f7a5e41",
+  "notes": "KG Logger v0.6.19 Build 126. Testing release: adds enhanced IAT from marked Zenith captures (54 C reference; wider-range validation pending). Retains safer passive capture exit and provisional VGT channel. Standard OBD remains default; enhanced MAP/BARO and coolant temperature remain unavailable. Full vehicle validation pending."
 }
