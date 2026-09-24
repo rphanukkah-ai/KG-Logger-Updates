@@ -1,7 +1,7 @@
 {
-  "version": "0.6.17",
-  "build": 121,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-121/KG-Logger-v0.6.17-Build121-update.zip",
-  "sha256": "a5ea6ce72321c8e98d989a2dd3ad8e6376c347a89a0ed4a0779350acc352dc6b",
-  "notes": "KG Logger v0.6.17 Build 121. Testing release: Standard OBD is the default. Enhanced mode remains experimental; pressure decoding is suppressed. Software checks passed; final vehicle validation and full enhanced-PID support are pending."
+  "version": "0.6.18",
+  "build": 124,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-124/KG-Logger-v0.6.18-Build124-update.zip",
+  "sha256": "ef5f8ff595c4811e6883f188686139957e6a28fed9cd7beb4abce8361285f65d",
+  "notes": "KG Logger v0.6.18 Build 124. Testing release: safer passive-capture exit and provisional VGT after-revision channel. Rail and transmission RPM supported by idle captures; full enhanced validation remains pending. Standard OBD is the default; enhanced MAP/BARO and temperatures remain unavailable."
 }
