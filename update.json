@@ -1,7 +1,7 @@
 {
-  "version": "0.6.20",
-  "build": 128,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-128/KG-Logger-v0.6.20-Build128-update.zip",
-  "sha256": "35527e077045380ab5ce8747e463330167d3c9d167a775d59fe6586f770f33fa",
-  "notes": "KG Logger v0.6.20 Build 128. Testing release: renames passive capture to CAN Sniffer with scanner-neutral markers and filenames. Retains enhanced IAT and provisional VGT; wider-range vehicle validation pending. Standard OBD remains default; enhanced MAP/BARO and coolant temperature remain unavailable."
+  "version": "0.6.21",
+  "build": 130,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-130/KG-Logger-v0.6.21-Build130-update.zip",
+  "sha256": "020019c46a54ee888899c69e6813fb1ae42ad99cd114a314bb44a29e77019989",
+  "notes": "KG Logger v0.6.21 Build 130. Testing release: adds enhanced coolant temperature and switches fuel quantity to marked 21 4A final/start/pre candidates. Supported at captured operating points; wider-range vehicle validation pending. Standard OBD remains default; enhanced MAP/BARO remain unavailable."
 }
