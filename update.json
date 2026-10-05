@@ -1,7 +1,7 @@
 {
-  "version": "0.6.21",
-  "build": 130,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-130/KG-Logger-v0.6.21-Build130-update.zip",
-  "sha256": "020019c46a54ee888899c69e6813fb1ae42ad99cd114a314bb44a29e77019989",
-  "notes": "KG Logger v0.6.21 Build 130. Testing release: adds enhanced coolant temperature and switches fuel quantity to marked 21 4A final/start/pre candidates. Supported at captured operating points; wider-range vehicle validation pending. Standard OBD remains default; enhanced MAP/BARO remain unavailable."
+  "version": "0.7.0",
+  "build": 133,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-133/KG-Logger-v0.7.0-Build133-update.zip",
+  "sha256": "39c4f8ab25888643a84a1e88c67dab72544190dbbd62d3178c9c378fd2a9a828",
+  "notes": "KG Logger v0.7.0 Build 133. Testing release: adds engine OBD DTC read/clear and Cummins J1939 active/history faults, automatic reports, explicit clear confirmation and acknowledgement checks. Vehicle validation pending; select Cummins/J1939 for CM2220."
 }
