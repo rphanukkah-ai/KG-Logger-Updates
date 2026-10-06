@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2",
-  "build": 137,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-137/KG-Logger-v0.7.2-Build137-update.zip",
-  "sha256": "7019daad07499e672864a65db18a761d66a836d57bad05cf704da97135edd7b3",
-  "notes": "KG Logger v0.7.2 Build 137. Adds module names and hexadecimal addresses to DTC results, reports and clear receipts. Uses reported J1939 identities where available; address-only names stay unconfirmed. Engine DTC reading is reported working on the Transvan; identity discovery and clearing need vehicle validation."
+  "version": "0.7.3",
+  "build": 139,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-139/KG-Logger-v0.7.3-Build139-update.zip",
+  "sha256": "034a11201ef723f31e4d569786d11a02966eda4050a2b9b8163c7201a97f0316",
+  "notes": "KG Logger v0.7.3 Build 139. Adds offline J1939 fault translations, technician first checks and definition sources to the DTC screen and saved reports. Supports common SAE parameters and a scoped Cummins FC 1117 reference. Unverified OEM faults remain explicit; original SPN/FMI, history and raw replies are retained. DTC clear behaviour is unchanged."
 }
