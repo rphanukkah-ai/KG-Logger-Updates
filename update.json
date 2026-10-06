@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "build": 133,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-133/KG-Logger-v0.7.0-Build133-update.zip",
-  "sha256": "39c4f8ab25888643a84a1e88c67dab72544190dbbd62d3178c9c378fd2a9a828",
-  "notes": "KG Logger v0.7.0 Build 133. Testing release: adds engine OBD DTC read/clear and Cummins J1939 active/history faults, automatic reports, explicit clear confirmation and acknowledgement checks. Vehicle validation pending; select Cummins/J1939 for CM2220."
+  "version": "0.7.1",
+  "build": 135,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-135/KG-Logger-v0.7.1-Build135-update.zip",
+  "sha256": "e57d5ad5fcef80e1ae8c9563be94f91ef11cbaa2229ca2fb16a5b456e85490d5",
+  "notes": "KG Logger v0.7.1 Build 135. Fixes false J1939 diagnostic-address conflicts caused by unmarked transmit echoes. Disables driver loopback when supported, preserves real conflict checks and records receive flags in reports. DTC vehicle validation remains pending."
 }
