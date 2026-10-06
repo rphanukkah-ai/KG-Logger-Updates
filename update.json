@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
-  "build": 135,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-135/KG-Logger-v0.7.1-Build135-update.zip",
-  "sha256": "e57d5ad5fcef80e1ae8c9563be94f91ef11cbaa2229ca2fb16a5b456e85490d5",
-  "notes": "KG Logger v0.7.1 Build 135. Fixes false J1939 diagnostic-address conflicts caused by unmarked transmit echoes. Disables driver loopback when supported, preserves real conflict checks and records receive flags in reports. DTC vehicle validation remains pending."
+  "version": "0.7.2",
+  "build": 137,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-137/KG-Logger-v0.7.2-Build137-update.zip",
+  "sha256": "7019daad07499e672864a65db18a761d66a836d57bad05cf704da97135edd7b3",
+  "notes": "KG Logger v0.7.2 Build 137. Adds module names and hexadecimal addresses to DTC results, reports and clear receipts. Uses reported J1939 identities where available; address-only names stay unconfirmed. Engine DTC reading is reported working on the Transvan; identity discovery and clearing need vehicle validation."
 }
