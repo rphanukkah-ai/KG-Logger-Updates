@@ -1,7 +1,7 @@
 {
-  "version": "0.7.4",
-  "build": 141,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-141/KG-Logger-v0.7.4-Build141-update.zip",
-  "sha256": "c3c44c2478d1b9bf5f432f36e26d71bb0434bdf529cd611a4000ff4a3dc9e843",
-  "notes": "KG Logger v0.7.4 Build 141. Preserves clear and rescan diagnostic traces on busy J1939 buses, including interrupted operations. Adds actionable J2534 reconnect and interface-in-use messages. DTC reports now include the application version/build and selected driver. Existing fault translations remain available; clear requests are still sent once and ECU acceptance is reported separately."
+  "version": "0.7.5",
+  "build": 143,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-143/KG-Logger-v0.7.5-Build143-update.zip",
+  "sha256": "632be365917921f9926dac99197322a9fc2223ad1fe640eddc16aa1bf190b51f",
+  "notes": "KG Logger v0.7.5 Build 143. Adds read-only J1939 component, ECU hardware, software and DM19 calibration identification to scans and reports. Adds verified ISF2.8 CM2220 FC 1117 active-derate and retained-history guidance with calibration limits. SPN 1550/FMI 11 remains explicitly unverified; the update captures identity for a precise service lookup. Clear requests remain single-send and ECU acceptance is reported separately."
 }
