@@ -1,7 +1,7 @@
 {
-  "version": "0.7.5",
-  "build": 143,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-143/KG-Logger-v0.7.5-Build143-update.zip",
-  "sha256": "632be365917921f9926dac99197322a9fc2223ad1fe640eddc16aa1bf190b51f",
-  "notes": "KG Logger v0.7.5 Build 143. Adds read-only J1939 component, ECU hardware, software and DM19 calibration identification to scans and reports. Adds verified ISF2.8 CM2220 FC 1117 active-derate and retained-history guidance with calibration limits. SPN 1550/FMI 11 remains explicitly unverified; the update captures identity for a precise service lookup. Clear requests remain single-send and ECU acceptance is reported separately."
+  "version": "0.7.6",
+  "build": 145,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/build-145/KG-Logger-v0.7.6-Build145-update.zip",
+  "sha256": "e4ae0e3192f80cfaab7c92d344aaa4cc42d5aadc9d360390782767a7aab10ed1",
+  "notes": "KG Logger v0.7.6 Build 145. Adds an operator-selected Foton ISF2.8 CM2220 reference for SPN 1550/FMI 11: Autel/Foton FC 191, A/C compressor clutch control circuit. Includes request/command/inhibit, relay/wiring/load and history-recurrence checks. Generic and automatic lookup remain unverified. Original diagnostic bytes, ECU identification, clear receipts and single-send clearing are preserved."
 }
