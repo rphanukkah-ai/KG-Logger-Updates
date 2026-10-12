@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
   "version": "0.3.0",
-  "build": 6,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.0-build-6/KG-Triumph-Scanner-v0.3.0-Build6-Setup.zip",
-  "sha256": "107814dcf0e6fdff57e920701d00fcaa3549df1988b3f11ac3954aaf312d17a9",
-  "bytes": 61415634,
-  "notes": "KG Triumph Scanner v0.3.0 Build 6. Automatic startup update checks, verified resumable downloads and disconnected installation/restart. Includes sync/key teaching capture and full-CSV analysis. Key programming/pairing writes are not implemented."
+  "build": 7,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.0-build-7/KG-Triumph-Scanner-v0.3.0-Build7-Setup.zip",
+  "sha256": "747cb7928da5023e0ef0d97a8203f9633bb4b5b9d4b1a33262e4d3cf87e410c0",
+  "bytes": 61415688,
+  "notes": "KG Triumph Scanner v0.3.0 Build 7. Automatic startup update checks, verified resumable downloads and disconnected installation/restart. Includes sync/key teaching capture and full-CSV analysis. Key programming/pairing writes are not implemented."
 }
