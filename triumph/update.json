@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.3",
-  "build": 12,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.3-build-12/KG-Triumph-Scanner-v0.3.3-Build12-Setup.zip",
-  "sha256": "363eb8716caa9c4e180837ea9a88b665fa4424a6df1ba4cddb73952dcfab4113",
-  "bytes": 61912028,
-  "notes": "KG Triumph Scanner v0.3.3 Build 12. Standard engine OBD broadcast discovery, 1000 ms probe waits and Scan details for replies, timeouts and adapter errors. Correct physical flow control for functional reads. KG icon and CSV export are retained. Triumph-specific module discovery and key programming/pairing writes are not implemented."
+  "version": "0.3.4",
+  "build": 14,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.4-build-14/KG-Triumph-Scanner-v0.3.4-Build14-Setup.zip",
+  "sha256": "b50f7ae537828a26e1136515cdbc9cd2dbe97a34c0628794fa900739356f5364",
+  "bytes": 61919880,
+  "notes": "KG Triumph Scanner v0.3.4 Build 14. Raw CAN with KG ISO-TP bypasses the native ISO15765 sender. Detects observed 250/500 kbps traffic; scans all matching 11/29-bit OBD responders and verifies physical routes. Mixed-format capture and full CSV preserve diagnostic evidence. Failed writes remain errors and require reconnecting. Hardware scan validation is pending. Triumph proprietary discovery and key programming/pairing writes are not implemented."
 }
