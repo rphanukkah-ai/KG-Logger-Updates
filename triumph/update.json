@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.1",
-  "build": 9,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.1-build-9/KG-Triumph-Scanner-v0.3.1-Build9-Setup.zip",
-  "sha256": "d8171660b81e7330d98a78865aa509313da137689f975e20b65bdb874d1629c5",
-  "bytes": 61419963,
-  "notes": "KG Triumph Scanner v0.3.1 Build 9. Save full CSV, recent JSON export after disconnect, local save-folder defaults and explicit save errors. Automatic updates, teaching-session capture and full-CSV analysis. Key programming/pairing writes are not implemented."
+  "version": "0.3.2",
+  "build": 10,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.2-build-10/KG-Triumph-Scanner-v0.3.2-Build10-Setup.zip",
+  "sha256": "ea38bce404ee0cfa58267f318284dd5e05e690bb4183ce2b9e393788ed005b16",
+  "bytes": 61421174,
+  "notes": "KG Triumph Scanner v0.3.2 Build 10. White tab titles and readable disabled Engine buttons on dark backgrounds. Full CSV export, post-disconnect recent JSON and local save-folder defaults are retained. Key programming/pairing writes are not implemented."
 }
