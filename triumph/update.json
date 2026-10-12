@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.2",
-  "build": 11,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.2-build-11/KG-Triumph-Scanner-v0.3.2-Build11-Setup.zip",
-  "sha256": "615bcb43e0a647249af064ec620ae62b0da9778417d9cfbaddda37eaad0149b3",
-  "bytes": 61908865,
-  "notes": "KG Triumph Scanner v0.3.2 Build 11. Official KG app, taskbar and desktop icon. White tab titles and readable disabled Engine buttons on dark backgrounds. Full CSV export and post-disconnect recent JSON are retained. Key programming/pairing writes are not implemented."
+  "version": "0.3.3",
+  "build": 12,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.3-build-12/KG-Triumph-Scanner-v0.3.3-Build12-Setup.zip",
+  "sha256": "363eb8716caa9c4e180837ea9a88b665fa4424a6df1ba4cddb73952dcfab4113",
+  "bytes": 61912028,
+  "notes": "KG Triumph Scanner v0.3.3 Build 12. Standard engine OBD broadcast discovery, 1000 ms probe waits and Scan details for replies, timeouts and adapter errors. Correct physical flow control for functional reads. KG icon and CSV export are retained. Triumph-specific module discovery and key programming/pairing writes are not implemented."
 }
