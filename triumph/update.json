@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.5",
-  "build": 15,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.5-build-15/KG-Triumph-Scanner-v0.3.5-Build15-Setup.zip",
-  "sha256": "2873eb17ce371167fac91c0c246a73674d1184c8823b1de73ef50998e807fab0",
-  "bytes": 61923859,
-  "notes": "KG Triumph Scanner v0.3.5 Build 15 fixes diagnostic report saving. A timestamped local report is preserved before export, the dialog starts in the local reports folder, and denied/locked destinations retain the report for retry. Existing reports are protected against failed replacements. The raw CAN engine transport is retained; the shop's keyed Trident has returned VIN and live readings through SM3 USB at 500 kbps with 29-bit addressing. Triumph proprietary discovery and key programming/pairing writes are not implemented."
+  "version": "0.3.6",
+  "build": 16,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.6-build-16/KG-Triumph-Scanner-v0.3.6-Build16-Setup.zip",
+  "sha256": "3f1105a00c865d9734bbd8db18705b2b03107a65ef252b7743552f81b3f138a7",
+  "bytes": 61927165,
+  "notes": "KG Triumph Scanner v0.3.6 Build 16 clarifies the connection and capture selectors. Choose the scan tool and its function explicitly, then START RECORDING; capture mode switches automatically. The visible summary identifies the recording and selections stay fixed while connected. A Countdown restarted / sync loop marker is included. Report preservation, engine reads and the existing updater are retained. Key programming/pairing writes are not implemented."
 }
