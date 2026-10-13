@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.6",
-  "build": 17,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.6-build-17/KG-Triumph-Scanner-v0.3.6-Build17-Setup.zip",
-  "sha256": "9cd9c690389db549fce2cd7ab87df5d7ed257530aa67526fe4948b0190f32d70",
-  "bytes": 61927366,
-  "notes": "KG Triumph Scanner v0.3.6 Build 17 clarifies the connection and capture selectors. Choose the scan tool and its function explicitly, then START RECORDING; capture mode switches automatically. The visible summary identifies the recording and selections stay fixed while connected. A Countdown restarted / sync loop marker is included. Report preservation, engine reads and the existing updater are retained. Key programming/pairing writes are not implemented."
+  "version": "0.3.7",
+  "build": 18,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.7-build-18/KG-Triumph-Scanner-v0.3.7-Build18-Setup.zip",
+  "sha256": "7d2d96116880d4f16f26cdac95b86b97792943be297c04d83989aed8b38886c6",
+  "bytes": 61945986,
+  "notes": "KG Triumph Scanner v0.3.7 Build 18 clarifies the connection and capture selectors. Choose the scan tool and its function explicitly, then START RECORDING; capture mode switches automatically. The visible summary identifies the recording and selections stay fixed while connected. A Countdown restarted / sync loop marker is included. Report preservation, engine reads and the existing updater are retained. Key programming/pairing writes are not implemented."
 }
