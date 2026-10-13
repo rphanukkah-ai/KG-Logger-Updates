@@ -1,9 +1,9 @@
 {
   "product": "KG-Triumph-Scanner",
-  "version": "0.3.4",
-  "build": 14,
-  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.4-build-14/KG-Triumph-Scanner-v0.3.4-Build14-Setup.zip",
-  "sha256": "b50f7ae537828a26e1136515cdbc9cd2dbe97a34c0628794fa900739356f5364",
-  "bytes": 61919880,
-  "notes": "KG Triumph Scanner v0.3.4 Build 14. Raw CAN with KG ISO-TP bypasses the native ISO15765 sender. Detects observed 250/500 kbps traffic; scans all matching 11/29-bit OBD responders and verifies physical routes. Mixed-format capture and full CSV preserve diagnostic evidence. Failed writes remain errors and require reconnecting. Hardware scan validation is pending. Triumph proprietary discovery and key programming/pairing writes are not implemented."
+  "version": "0.3.5",
+  "build": 15,
+  "package_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates/releases/download/kg-triumph-v0.3.5-build-15/KG-Triumph-Scanner-v0.3.5-Build15-Setup.zip",
+  "sha256": "2873eb17ce371167fac91c0c246a73674d1184c8823b1de73ef50998e807fab0",
+  "bytes": 61923859,
+  "notes": "KG Triumph Scanner v0.3.5 Build 15 fixes diagnostic report saving. A timestamped local report is preserved before export, the dialog starts in the local reports folder, and denied/locked destinations retain the report for retry. Existing reports are protected against failed replacements. The raw CAN engine transport is retained; the shop's keyed Trident has returned VIN and live readings through SM3 USB at 500 kbps with 29-bit addressing. Triumph proprietary discovery and key programming/pairing writes are not implemented."
 }
